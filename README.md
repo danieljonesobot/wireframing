@@ -1,4 +1,4 @@
-# wireframing
+# Wireframing
 Wireframing is the process of creating a low-fidelity visual guide that represents the skeletal framework or blueprint of a digital product, such as a website, mobile app, or software interface. Wireframes focus on layout, structure, and functionality rather than visual design or color schemes.
 
 ---
